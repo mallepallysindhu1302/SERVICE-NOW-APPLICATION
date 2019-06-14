@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_catalog">
+    <sc_catalog action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <background_color>white</background_color>
+        <description/>
+        <desktop_continue_shopping/>
+        <desktop_home_page/>
+        <desktop_image/>
+        <editors/>
+        <enable_wish_list>false</enable_wish_list>
+        <manager/>
+        <sys_class_name>sc_catalog</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:38:59</sys_created_on>
+        <sys_id>922e9489dbc2f3002f837fcfbf9619be</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>SriIndu It Catalog</sys_name>
+        <sys_package display_value="SriIndu It" source="x_366637_sriindu_i">983614c1dbc2f3002f837fcfbf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SriIndu It">983614c1dbc2f3002f837fcfbf9619af</sys_scope>
+        <sys_update_name>sc_catalog_922e9489dbc2f3002f837fcfbf9619be</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:38:59</sys_updated_on>
+        <title>SriIndu It Catalog</title>
+    </sc_catalog>
+    <sys_translated_text action="delete_multiple" query="documentkey=922e9489dbc2f3002f837fcfbf9619be"/>
+</record_update>

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="item_option_new_set">
+    <item_option_new_set action="INSERT_OR_UPDATE">
+        <create_roles/>
+        <description/>
+        <display_title>true</display_title>
+        <internal_name>hardware_variable_set</internal_name>
+        <layout>normal</layout>
+        <name/>
+        <order>100</order>
+        <read_roles/>
+        <sys_class_name>item_option_new_set</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 05:45:06</sys_created_on>
+        <sys_id>158f18c9dbc2f3002f837fcfbf9619a1</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Hardware variable set</sys_name>
+        <sys_package display_value="SriIndu It" source="x_366637_sriindu_i">983614c1dbc2f3002f837fcfbf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SriIndu It">983614c1dbc2f3002f837fcfbf9619af</sys_scope>
+        <sys_update_name>item_option_new_set_158f18c9dbc2f3002f837fcfbf9619a1</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 05:45:06</sys_updated_on>
+        <title>Hardware variable set</title>
+        <type>one_to_one</type>
+        <write_roles/>
+    </item_option_new_set>
+</record_update>

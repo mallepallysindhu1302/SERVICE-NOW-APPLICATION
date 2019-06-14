@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="log incident" max_length="40" name="x_366637_sriindu_i_log_incident" sizeclass="4" type="collection">
+        <element choice="1" default="none" label="Education" max_length="100" name="address" reference_qual="map=72d6fb15d7230200bd4a4ebfae6103f7^EQ" reference_qual_condition="map=72d6fb15d7230200bd4a4ebfae6103f7^EQ" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="-- New choice --" value="-- New choice --"/>
+                <element inactive_on_update="false" label="degree"/>
+                <element inactive_on_update="false" label="Inter"/>
+                <element inactive_on_update="false" label="ssc"/>
+            </choice>
+        </element>
+        <element display="true" label="End Date" mandatory="true" max_length="20" name="end_date" type="glide_date_time"/>
+        <element label="Request date/Time" mandatory="true" max_length="40" name="request_date_time" type="glide_date_time"/>
+        <element choice="3" label="contact type" max_length="100" name="x_366637_sriindu_i_contact_type" type="choice">
+            <choice>
+                <element inactive_on_update="false" label="email"/>
+            </choice>
+        </element>
+        <element label="location" max_length="32" name="x_366637_sriindu_i_location" reference="cmn_location" type="reference"/>
+    </element>
+</database>

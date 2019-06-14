@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Log incident Backup" max_length="40" name="x_366637_sriindu_i_log_incident_backup" type="collection">
+        <element attributes="edge_encryption_enabled=true" label="Short description" max_length="40" name="u_string_1" type="string"/>
+    </element>
+</database>

@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="ef8e2485db06f3002f837fcfbf9619aa" sys_domain="global" table="x_366637_sriindu_i_log_incident_backup" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_string_1</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 08:14:29</sys_created_on>
+            <sys_id>06d10101db46f3002f837fcfbf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366637_sriindu_i_log_incident_backup" sys_domain="global" view="Default view">ef8e2485db06f3002f837fcfbf9619aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_on</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 08:14:29</sys_created_on>
+            <sys_id>86d10101db46f3002f837fcfbf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366637_sriindu_i_log_incident_backup" sys_domain="global" view="Default view">ef8e2485db06f3002f837fcfbf9619aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>sys_created_by</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 08:14:29</sys_created_on>
+            <sys_id>0ad10101db46f3002f837fcfbf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_366637_sriindu_i_log_incident_backup" sys_domain="global" view="Default view">ef8e2485db06f3002f837fcfbf9619aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:14:29</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>ratings.xml</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 08:14:29</sys_created_on>
+            <sys_id>8ad10101db46f3002f837fcfbf96193a</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="Ratings">a3340f6bd7111100158ba6859e610331</sys_ui_formatter>
+            <sys_ui_section caption="NULL" display_value="" name="x_366637_sriindu_i_log_incident_backup" sys_domain="global" view="Default view">ef8e2485db06f3002f837fcfbf9619aa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 08:14:29</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_366637_sriindu_i_log_incident_backup</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-06-13 06:50:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ef8e2485db06f3002f837fcfbf9619aa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_366637_sriindu_i_log_incident_backup</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="SriIndu It" source="x_366637_sriindu_i">983614c1dbc2f3002f837fcfbf9619af</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="SriIndu It">983614c1dbc2f3002f837fcfbf9619af</sys_scope>
+            <sys_update_name>sys_ui_section_ef8e2485db06f3002f837fcfbf9619aa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-06-13 06:50:12</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl_role">
+    <sys_security_acl_role action="INSERT_OR_UPDATE">
+        <sys_class_name>sys_security_acl_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-06-13 06:42:27</sys_created_on>
+        <sys_id>cacca045db06f3002f837fcfbf9619f7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_366637_sriindu_i_log_incident_backup.x_366637_sriindu_i.log_incident_backup_user</sys_name>
+        <sys_package display_value="SriIndu It" source="x_366637_sriindu_i">983614c1dbc2f3002f837fcfbf9619af</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SriIndu It">983614c1dbc2f3002f837fcfbf9619af</sys_scope>
+        <sys_security_acl display_value="x_366637_sriindu_i_log_incident_backup">82cca045db06f3002f837fcfbf9619f5</sys_security_acl>
+        <sys_update_name>sys_security_acl_role_cacca045db06f3002f837fcfbf9619f7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-06-13 06:42:27</sys_updated_on>
+        <sys_user_role display_value="x_366637_sriindu_i.log_incident_backup_user" name="x_366637_sriindu_i.log_incident_backup_user">35cca045db06f3002f837fcfbf9619da</sys_user_role>
+        <transaction_id/>
+    </sys_security_acl_role>
+</record_update>
